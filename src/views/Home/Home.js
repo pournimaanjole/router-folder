@@ -10,7 +10,7 @@ export default function Home() {
             <div className="container main-hero-container  ">
                <div className="row">
                   <div className="col-12 col-lg-6 d-flex justify-content-center flex-column align-items-start">
-                     <h1 >Online Payment Mode <br/> Easy For you</h1>
+                     <h1 >online fruits deivery  <br/> Easy For you</h1>
                      <p className='main-hero-para'>
                      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam minima provident necessitatibus. Autem facere cum, asperiores magnam est delectus. Eius doloremque asperiores perferendis dolorum quia eaque magnam quae aliquam minima!
 
